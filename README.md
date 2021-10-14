@@ -2,7 +2,6 @@
 
 my blog
 https://marukun712.github.io/marukun-blog/
-
 https://chatter-dew-aa8.notion.site/marukun-Qiita-3e70a672b6f94860812b2695a7df10f5
 
 my portfolio
