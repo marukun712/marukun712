@@ -1,5 +1,8 @@
 # Hello
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marukun712&show_icons=true)
+
+
 my blog
 https://marukun712.github.io/marukun-blog/
 
