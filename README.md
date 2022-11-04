@@ -11,7 +11,7 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/marukun_/posts.svg" />
   </a>
   <//qiita.com/marukun_">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/yutkat/contributions.svg" />
+    <img height="20" src="https://qiita-badge.apiapi.app/s/marukun_/contributions.svg" />
   </a>
 </p>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marukun712&show_icons=true&theme=Gradient)
