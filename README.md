@@ -1,4 +1,4 @@
-# 👋Hello I'm marukun.
+# 👋Hello, I'm marukun.
 
 <p align="left">
   <a href="https://github.com/marukun712/marukun712/">
