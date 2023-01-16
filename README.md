@@ -16,7 +16,7 @@
 </p>
  
 # My Portfolio
-https://marukun-portfolio.ml/
+https://marukun-portfolio.netlify.app/
 
 # My Blog
 https://marukun-blog.netlify.app/
