@@ -15,8 +15,5 @@
   </a>
 </p>
  
-# [💼My Portfolio](https://marukun-portfolio.netlify.app/)
-
-
-# [📝My Blog](https://marukun-blog.netlify.app/)
+[💼My Portfolio](https://marukun-portfolio.netlify.app/)[📝My Blog](https://marukun-blog.netlify.app/)
  
