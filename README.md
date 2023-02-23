@@ -29,4 +29,6 @@
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=marukun712&theme=transparent&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marukun712&layout=compact&theme=transparent&count_private=true&hide_border=true)</a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=marukun712&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 </details>
