@@ -17,3 +17,6 @@
  
 [💼My Portfolio](https://marukun-portfolio.netlify.app/)[📝My Blog](https://marukun-blog.netlify.app/)
  
+ # Skills
+ [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,vscode,vim,vercel,unity,tailwind,py,pug,nodejs,nextjs,netlify,linux,jquery,git,github,electron,docker)](https://skillicons.dev)
+
