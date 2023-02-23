@@ -20,6 +20,13 @@
  # Skills
  [![My Skills](https://skillicons.dev/icons?i=js,ts,py,html,css,nodejs,nextjs,jquery,tailwind,pug,electron,vscode,vim,vercel,netlify,linux,git,github,docker,md)](https://skillicons.dev)
 
-learning
+🌱learning
   
 [![My Skills](https://skillicons.dev/icons?i=unity,cs,go,dotnet,rails,ruby)](https://skillicons.dev)
+
+<details>
+  <summary>Github Stats</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=marukun712&theme=transparent&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marukun712&layout=compact&theme=transparent&count_private=true&hide_border=true)</a>
+</details>
