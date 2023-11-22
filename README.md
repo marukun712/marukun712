@@ -18,11 +18,11 @@
 [💼My Portfolio](https://marukun-portfolio.netlify.app/)[📝My Blog](https://marukun-blog.netlify.app/)
  
  # 🌱Skills
- [![My Skills](https://skillicons.dev/icons?i=js,ts,py,cs,html,css,nodejs,aiscript,nextjs,jquery,tailwind,bootstrap,pug,express,electron,vite,fastapi,vscode,vim,neovim,vercel,netlify,linux,bash,powershell,git,github,docker,md,supabase,postgres,unity)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=js,ts,py,cs,go,html,css,nodejs,aiscript,nextjs,jquery,tailwind,bootstrap,pug,express,electron,vite,fastapi,vscode,vim,neovim,vercel,netlify,linux,bash,powershell,git,github,docker,md,supabase,postgres,unity)](https://skillicons.dev)
 
 learning
   
-[![My Skills](https://skillicons.dev/icons?i=elixir,go,dotnet,rails,ruby)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=elixir,dotnet,rails,ruby)](https://skillicons.dev)
 
 <details>
   <summary>Github Stats</summary>
