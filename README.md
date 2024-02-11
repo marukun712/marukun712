@@ -15,7 +15,7 @@
   </a>
 </p>
  
-[💼My Portfolio](https://marukun-portfolio.netlify.app/)[📝My Blog](https://marukun-blog.netlify.app/)
+[💼My Portfolio](https://marukun-dev.com/)[📝My Blog](https://marukun-blog.netlify.app/)
  
  # 🌱Skills
  [![My Skills](https://skillicons.dev/icons?i=ts,js,py,cs,go,html,css,nodejs,deno,nextjs,tailwind,express,electron,vite,fastapi,vscode,vim,neovim,vercel,netlify,linux,bash,powershell,git,github,docker,md,supabase,postgres,unity)](https://skillicons.dev)
