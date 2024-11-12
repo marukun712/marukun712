@@ -13,12 +13,11 @@
   <//qiita.com/maril">
     <img height="20" src="https://qiita-badge.apiapi.app/s/maril/contributions.svg" />
   </a>
+  
+  <a href="https://app.hackthebox.com/profile/2134559">![hackthebox](https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)</a>
 </p>
  
 [💼My Portfolio](https://marukun-dev.com/)
-
-
-<a href="https://app.hackthebox.com/profile/2134559">![hackthebox](https://github.com/user-attachments/assets/773d6307-e246-4989-bb28-54d6ef17cdd7)</a>
 
 # 🌱Skills
 [![My Skills](https://skillicons.dev/icons?i=ts,js,py,cs,go,html,css,nodejs,deno,remix,nextjs,tailwind,threejs,express,electron,vite,fastapi,vscode,vim,neovim,vercel,netlify,linux,bash,powershell,git,github,docker,md,supabase,postgres,unity)](https://skillicons.dev)
