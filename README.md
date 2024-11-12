@@ -16,16 +16,19 @@
 </p>
  
 [💼My Portfolio](https://marukun-dev.com/)
- 
- # 🌱Skills
- [![My Skills](https://skillicons.dev/icons?i=ts,js,py,cs,go,html,css,nodejs,deno,remix,nextjs,tailwind,threejs,express,electron,vite,fastapi,vscode,vim,neovim,vercel,netlify,linux,bash,powershell,git,github,docker,md,supabase,postgres,unity)](https://skillicons.dev)
 
+
+<a href="https://app.hackthebox.com/profile/2134559">![hackthebox](https://github.com/user-attachments/assets/773d6307-e246-4989-bb28-54d6ef17cdd7)</a>
+
+# 🌱Skills
+[![My Skills](https://skillicons.dev/icons?i=ts,js,py,cs,go,html,css,nodejs,deno,remix,nextjs,tailwind,threejs,express,electron,vite,fastapi,vscode,vim,neovim,vercel,netlify,linux,bash,powershell,git,github,docker,md,supabase,postgres,unity)](https://skillicons.dev)
+ 
 <details>
   <summary>Github Stats</summary>
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=marukun712&theme=transparent&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marukun712&layout=compact&theme=transparent&count_private=true&hide_border=true)</a>
-    
-[![trophy](https://github-profile-trophy.vercel.app/?username=marukun712&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=marukun712&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  
 </details>
