@@ -17,7 +17,7 @@
   <a href="https://app.hackthebox.com/profile/2134559">![hackthebox](https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)</a>
 </p>
  
-[💼My Portfolio](https://marukun-dev.com/)
+[💼My Portfolio](https://maril.blue/)
 
 # 🌱Skills
 [![My Skills](https://skillicons.dev/icons?i=ts,js,py,cs,go,html,css,nodejs,deno,remix,nextjs,tailwind,threejs,express,electron,vite,fastapi,vscode,vim,neovim,vercel,netlify,linux,bash,powershell,git,github,docker,md,supabase,postgres,unity)](https://skillicons.dev)
