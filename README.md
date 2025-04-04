@@ -14,7 +14,7 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/maril/contributions.svg" />
   </a>
   
-  <a href="https://app.hackthebox.com/profile/2134559">![hackthebox](https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)</a>
+  <a href="https://app.hackthebox.com/profile/2134559">![hackthebox](https://www.hackthebox.com/badge/image/2134559)</a>
 </p>
  
 [💼My Portfolio](https://maril.blue/)
