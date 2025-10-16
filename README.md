@@ -15,7 +15,7 @@
 [💼My Portfolio](https://maril.blue/)
 
 # 🌱Skills
-[![My Skills](https://skillicons.dev/icons?i=ts,js,py,cs,go,ruby,nix,html,css,bun,nodejs,deno,remix,nextjs,tailwind,threejs,fastapi,vscode,linux,git,github,docker,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,py,cs,go,ruby,nix,html,css,bun,nodejs,deno,remix,nextjs,tailwind,threejs,fastapi,vscode,linux,git,github,docker,unity)]
  
 <details>
   <summary>Github Stats</summary>
