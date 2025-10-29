@@ -12,8 +12,6 @@
   <a href="https://app.hackthebox.com/profile/2134559">![hackthebox](https://www.hackthebox.com/badge/image/2134559)</a>
 </p>
  
-[💼My Portfolio](https://maril.blue/)
-
 # 🌱Skills
 ![My Skills](https://skillicons.dev/icons?i=ts,js,py,cs,go,ruby,nix,html,css,bun,nodejs,deno,remix,nextjs,tailwind,threejs,fastapi,vscode,linux,git,github,docker,unity)
 
