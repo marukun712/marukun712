@@ -15,12 +15,5 @@
 # 🌱Skills
 ![My Skills](https://skillicons.dev/icons?i=ts,js,py,cs,go,ruby,nix,html,css,bun,nodejs,deno,remix,nextjs,tailwind,threejs,fastapi,vscode,linux,git,github,docker,unity)
 
-<details>
-  <summary>Github Stats</summary>
-  
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=marukun712&theme=transparent&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marukun712&layout=compact&theme=transparent&count_private=true&hide_border=true)</a>
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=marukun712&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-  
-</details>
+<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=marukun712&theme=transparent&count_private=true&hide_border=true&line_height=20)</a>
+<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marukun712&layout=compact&theme=transparent&count_private=true&hide_border=true)</a>
