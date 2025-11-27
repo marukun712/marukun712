@@ -12,7 +12,7 @@
   <a href="https://app.hackthebox.com/profile/2134559">![hackthebox](https://www.hackthebox.com/badge/image/2134559)</a>
 </p>
  
-# 🌱Skills
+# 🌱Skills(触れたことのあるものを含む)
 ![My Skills](https://skillicons.dev/icons?i=ts,js,py,cs,go,rust,ruby,nix,html,css,bun,nodejs,remix,nextjs,tailwind,threejs,vscode,linux,git,github,docker,unity)
 
 <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=marukun712&theme=transparent&count_private=true&hide_border=true&line_height=20)</a>
