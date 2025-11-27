@@ -13,7 +13,7 @@
 </p>
  
 # 🌱Skills
-![My Skills](https://skillicons.dev/icons?i=ts,js,py,cs,go,rust,ruby,nix,html,css,bun,nodejs,deno,remix,nextjs,tailwind,threejs,fastapi,vscode,linux,git,github,docker,unity)
+![My Skills](https://skillicons.dev/icons?i=ts,js,py,cs,go,rust,ruby,nix,html,css,bun,nodejs,remix,nextjs,tailwind,threejs,vscode,linux,git,github,docker,unity)
 
 <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=marukun712&theme=transparent&count_private=true&hide_border=true&line_height=20)</a>
 <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marukun712&layout=compact&theme=transparent&count_private=true&hide_border=true)</a>
