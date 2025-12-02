@@ -1,5 +1,5 @@
 # 👋Hello, I'm maril.
-未踏ジュニア'25 / SecHack365'25 / KdEi研
+未踏ジュニア'25 スーパークリエイタ / SecHack365'25 / KdEi研
 
 <p align="left">
   <a href="https://github.com/marukun712/marukun712/">
