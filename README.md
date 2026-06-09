@@ -9,7 +9,7 @@
     <img height="20" src="https://img.shields.io/github/followers/marukun712?label=follow&logo=github&style=flat" />
   </a>
   
-  <a href="https://app.hackthebox.com/profile/2134559">![hackthebox](https://www.hackthebox.com/badge/image/2134559)</a>
+  <a href="https://app.hackthebox.com/public/users/2134559">![hackthebox](https://www.hackthebox.com/badge/image/2134559)</a>
 </p>
  
 # 🌱Skills(触れたことのあるものを含む)
