@@ -1,5 +1,4 @@
 # 👋Hello, I'm maril
-サイボウズ・ラボユース'26 / 未踏ジュニア'25 スパクリ / SecHack365'25 開発駆動 / KdEi研
 
 <p align="left">
   <a href="https://github.com/marukun712/marukun712/">
@@ -11,6 +10,8 @@
   
   <a href="https://app.hackthebox.com/public/users/2134559">![hackthebox](https://www.hackthebox.com/badge/image/2134559)</a>
 </p>
+
+サイボウズ・ラボユース'26 / 未踏ジュニア'25 スパクリ / SecHack365'25 開発駆動 / KdEi研
 
 ![tsukuba-love2](https://love.tsukuba-ac.net/tsukuba-love2.png)
  
