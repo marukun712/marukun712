@@ -1,6 +1,6 @@
 # 👋Hello, I'm maril
 
-サイボウズ・ラボユース'26 / 未踏ジュニア'25 スパクリ / SecHack365'25 開発駆動 / KdEi研
+サイボウズ・ラボユース'26, SecHack365'25, 未踏ジュニア'25, KdEi研 情報科学
 
 <p align="left">
   <a href="https://github.com/marukun712/marukun712/">
