@@ -1,5 +1,3 @@
-# 👋Hello, I'm maril
-
 サイボウズ・ラボユース'26, SecHack365'25, 未踏ジュニア'25, KdEi研 情報科学
 
 <p align="left">
