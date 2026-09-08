@@ -12,6 +12,11 @@
 </p>
 
 ![tsukuba-love2](https://love.tsukuba-ac.net/tsukuba-love2.png)
- 
-# 🌱Skills(触れたことのあるものを含む)
-![My Skills](https://skillicons.dev/icons?i=ts,js,py,cs,go,rust,ruby,nix,html,css,bun,nodejs,remix,nextjs,tailwind,threejs,vscode,linux,git,github,docker,unity)
+
+# Skills
+
+ATProtocol, DIDまわりがメイン
+
+<img height="200" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/at-protocol-kawaii.png" />
+
+![My Skills](https://skillicons.dev/icons?i=ts,js,py,cs,go,rust,nix,html,css,deno,bun,nodejs,solidjs,threejs)
